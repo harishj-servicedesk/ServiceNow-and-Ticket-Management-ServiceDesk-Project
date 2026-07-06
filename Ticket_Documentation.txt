@@ -1,0 +1,15 @@
+Ticket Number: INC000001
+
+Issue:
+User unable to connect to VPN.
+
+Troubleshooting:
+Verified internet connection.
+Restarted VPN application.
+Reinstalled VPN software.
+
+Resolution:
+VPN successfully connected.
+
+User Confirmation:
+User confirmed issue resolved.

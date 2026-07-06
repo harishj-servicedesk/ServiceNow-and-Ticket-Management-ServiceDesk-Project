@@ -1,0 +1,19 @@
+INC000001
+Issue: VPN not connecting.
+Priority: High.
+Status: Closed.
+
+INC000002
+Issue: Outlook not opening.
+Priority: Medium.
+Status: Closed.
+
+INC000003
+Issue: Printer not printing.
+Priority: Low.
+Status: Closed.
+
+INC000004
+Issue: Password Reset.
+Priority: Low.
+Status: Closed.
